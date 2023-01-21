@@ -1,0 +1,16 @@
+{
+  "pictures": [
+    {
+      "artist": "Mikamika",
+      "year": "2017",
+      "photo": "https://picsum.photos/400/342",
+      "id": 10
+    },
+    {
+      "artist": "Lulu",
+      "year": "1000",
+      "photo": "https://picsum.photos/400/447",
+      "id": 11
+    }
+  ]
+}
